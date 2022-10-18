@@ -7,5 +7,4 @@ Modifications from the original Reddit post:
 1. Used cabinets instead of chests
 2. Door, cabinet, bed in that order
 
-By default, the starting point is the top right tile of the top right stairwell. Note that the stairwells are not aligned by design, so take care when repeating the template over z levels.
-
+By default, the starting point is the top right left of the top left stairwell. Note that the stairwells are not aligned by design.

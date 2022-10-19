@@ -7,3 +7,5 @@ Description: 128 furnished bedrooms with two tiles of space in a 40 by 40 area. 
 By default, the starting point for quickfort is the top left tile of the top left stairwell (not center). 
 
 Tips: Like all compact designs, I noticed a bit of cancellation spam, e.g. cannot reach site, suspends construction of cabinet, innaccessible site. When there is stone in the bedrooms, there is not much room to move the stone to the side. I suggest dumping or moving the stone from the rooms.
+
+![Snowflake bedroom](https://user-images.githubusercontent.com/26405187/196627771-f6a33bb0-5bfb-4b9b-b258-fc91b79d3a49.png)
